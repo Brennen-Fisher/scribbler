@@ -10,7 +10,7 @@ justify-content: center;
         background-color: #fff;
         border-radius: 10px;
         min-height: 600px;
-        .left{
+        .decSide{
             background: linear-gradient(rgba(255, 0, 0, 0.479),rgba(0, 0, 0, 1));
             flex: 1;
             padding: 50px;
@@ -36,7 +36,7 @@ justify-content: center;
                 font-weight: bold;
             }
         }
-        .right{
+        .formSide{
             flex: 1;
             display: flex;
             flex-direction: column;
